@@ -1,0 +1,17 @@
+{
+  "customIcon": {
+    "display_name": "抖小云",
+    "desc": "1. 项目技术：基于.NET 6 开发<br>2. 核心功能：同步抖音「收藏的」视频、「喜欢的」视频、指定博主的作品<br>3. 视频播放：程序内置简单刮削,可直接丢到Emby或Jellyfin<br>4. 特色功能：支持多账号同步<br>5. 默认账号：douyin/douyin2025",
+    "labels": "抖音视频同步",
+    "version": "0.0.1",
+    "author": "jianzhichu",
+    "author_url": "https://club.fnnas.com/home.php?mod=space&uid=93469",
+    "download_url": "https://fpk.synology2023.online/$/yI5dE",
+    "bug_report_url": "https://gitee.com/deathvicky/dysync.net",
+    "install_type": "系统空间",
+    "size": "48.0",
+    "history": {
+      
+    }
+  }
+}
