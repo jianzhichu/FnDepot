@@ -3,7 +3,7 @@
     "display_name": "抖小云",
     "desc": "基于.NET 6 开发,同步抖音「收藏的」视频、「喜欢的」视频、指定博主的作品、内置刮削、可直接丢到Emby或Jellyfin、支持多账号同步|默认账号：douyin/douyin2025",
     "labels": "抖音视频同步",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "author": "jianzhichu",
     "author_url": "https://club.fnnas.com/home.php?mod=space&uid=93469",
     "download_url": "",
