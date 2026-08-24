@@ -3,7 +3,7 @@
     "display_name": "抖小云",
     "desc": "同步抖音「收藏的」视频、「喜欢的」视频、指定博主的作品、内置刮削、丝滑接入Emby或Jellyfin、支持多账号同步|默认账号：douyin/douyin2026,图文视频依赖ffmpeg，飞牛默认有安装，如果没有，需要自己安装一下",
     "labels": "抖音视频同步",
-    "version": "0.2.4",
+    "version": "0.2.5",
     "author": "jianzhichu",
     "author_url": "https://club.fnnas.com/home.php?mod=space&uid=93469",
     "download_url": "",
